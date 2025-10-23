@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas openpyxl influxdb-client paho-mqtt scikit-learn matplotlib joblib tensorflow
+          pip install pandas openpyxl influxdb-client paho-mqtt scikit-learn matplotlib joblib tensorflow-cpu
       - name: Run tests
         run: |
           python -m unittest discover -v
