@@ -1,3 +1,7 @@
+# CI
+
+[![CI](https://github.com/AngeloHJoseLuis/project_hostalLaPerlaTupiza25/actions/workflows/ci.yml/badge.svg)](https://github.com/AngeloHJoseLuis/project_hostalLaPerlaTupiza25/actions)
+
 # Instrucciones mínimas para iot_pipeline
 
 Archivos incluidos:
